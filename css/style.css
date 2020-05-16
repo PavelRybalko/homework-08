@@ -295,11 +295,11 @@ button {
   }
   .header-title {
     width: 510px;
-    font-size: 52px;
+    font-size: 3.7143rem;
     margin: 0 auto 32px;
   }
   .header-description {
-    font-size: 24px;
+    font-size: 1.7143rem;
     margin-bottom: 34px;
   }
   .header-link {
